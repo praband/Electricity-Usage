@@ -1,0 +1,20 @@
+
+Task 1                                
+load electricity           
+usage                    //usage is whole matrix//
+
+
+Task 2
+usage(2,3) = 2.74         //replaceing 2nd row and 3rd column with 2.74//
+
+
+Task 3
+res = usage(:,1)          //first coiumn//
+
+
+Task 4
+comm = usage(:,2)     //2nd coiumn//
+ind = usage(:,3)      //3rd column//
+
+
+
