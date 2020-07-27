@@ -1,0 +1,16 @@
+Task 5
+yrs = (1991:2013)'  //on x-axis// 
+
+
+Task 6
+plot(yrs,res,"b--")   //blue dashed line//
+hold on
+plot(yrs,comm,"k:")   //black dotted line//
+plot(yrs,ind,"m-.")    //magneta dash dotted line//
+hold off
+
+Task 7
+title("July Electricity Usage")
+legend("res","comm","ind")      //on y-axis//
+
+
